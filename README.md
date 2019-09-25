@@ -2,11 +2,13 @@
 ![](https://www.alura.com.br/assets/api/share/curso-html5-css3-primeiros-passos.png)
 
 ## Marcação do primeiro texto
+- Uma introdução ao HTML e às suas tags
+- Como definir o título e os parágrafos de um texto
+- Utilizando as tags <h1> e <p>, respectivamente
+- Como dar destaque para algumas informações do texto, deixando-as em negrito, utilizando a tag <strong>
+- Como dar ênfase para algumas informações do texto, deixando-as em itálico, utilizando a tag <em>
 
 ## Separando o conteúdo e informaçoes
-
-### Nesta aula, aprendemos:
-
 A definir a estrutura básica do HTML
 * Com a tag DOCTYPE, definimos qual versão do HTML estamos utilizando
 * A tag <html>, que marca o conteúdo a ser renderizado no navegador
