@@ -49,6 +49,17 @@ A definir a estrutura básica do HTML
 - Como se comporta um time de front-end hoje em dia
 
 ## Listas e divisões de conteúdo
+- A trabalhar com listas não-ordenadas e listas ordenadas
+- Para cada um dos itens da lista, utilizamos a tag <li>
+- O conceito das classes no CSS
+- Elas servem para marcar itens, só que são repetíveis
+- Como referenciar uma classe no CSS
+- Divisões de conteúdo, utilizando a tag <div>
+- Os comportamentos inline e block
 
 ## Finalizando a página
+- O conceito de cabeçalho da página e como criá-lo
+- Que o cabeçalho da página deve ter mais destaque
+- Que não é recomendado criar estilos usando tags
+- O ideal é usarmos classes para tudo
 
