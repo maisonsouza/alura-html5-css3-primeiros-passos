@@ -50,7 +50,7 @@ A definir a estrutura básica do HTML
 
 ## Listas e divisões de conteúdo
 - A trabalhar com listas não-ordenadas e listas ordenadas
-- Para cada um dos itens da lista, utilizamos a tag <li>
+- Para cada um dos itens da lista, utilizamos a tag `<li>`
 - O conceito das classes no CSS
 - Elas servem para marcar itens, só que são repetíveis
 - Como referenciar uma classe no CSS
